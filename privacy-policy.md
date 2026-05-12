@@ -73,19 +73,30 @@ Opt out of personalized advertising
 Withdraw consent at any time
 To exercise these rights, contact us at the email below.
 
-9. Security
+9.Photo Library Access
+
+Certain Apps (such as PhotoTidy) request access to your photo
+library to provide on-device features like duplicate detection,
+blurry photo identification, and screenshot cleanup. All photo
+analysis is performed entirely on your device using Apple's
+PhotoKit and Vision frameworks. We do not upload, transmit, store,
+or share your photo contents, thumbnails, or metadata with any
+server, including ours or any third party. Photo access is used
+solely for the on-device features you initiate.
+
+10. Security
 
 We implement reasonable technical and organizational measures to protect your information. However, no method of transmission over the Internet is 100% secure.
 
-10. Third-Party Links
+11. Third-Party Links
 
 Our Apps may contain links to third-party websites or services. We are not responsible for the privacy practices of those third parties.
 
-11. Changes to This Policy
+12. Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the "Last updated" date. Continued use of our Apps after changes constitutes acceptance of the revised policy.
 
-12. Contact Us
+13. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
