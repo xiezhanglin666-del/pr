@@ -23,6 +23,7 @@ Nimbora collects only the categories of data listed below. We do not collect nam
 | Crash data | Stack traces and device model at the moment of a crash | To diagnose and fix bugs | No | No |
 | Performance data | Launch time, frozen frames, network latency | To improve app performance | No | No |
 | Other diagnostics | Non-personal technical signals (e.g. iOS version, locale) | App functionality | No | No |
+| Purchase History | In-app purchase receipts processed by the FXAd advertising SDK for receipt validation (Nimbora v1.0 does not offer in-app purchases; this entry reflects an SDK capability that is not actively used) | App functionality | Yes | No |
 
 ## 2. How We Use Your Information
 
@@ -107,6 +108,7 @@ Nimbora 仅收集下表列出的数据类别。我们不收集姓名、邮箱、
 | 崩溃数据 | 崩溃时的堆栈与设备型号 | 诊断并修复缺陷 | 否 | 否 |
 | 性能数据 | 启动时长、卡顿、网络延迟 | 优化性能 | 否 | 否 |
 | 其他诊断 | 非个人技术信号（如 iOS 版本、语言区域） | App 功能 | 否 | 否 |
+| 购买记录 | FXAd 广告 SDK 用于校验内购凭证的能力（Nimbora v1.0 不提供应用内购买，此项反映 SDK 自身的功能声明，实际未被使用） | App 功能 | 是 | 否 |
 
 ## 2. 如何使用
 
